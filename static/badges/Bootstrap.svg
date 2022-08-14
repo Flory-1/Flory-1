@@ -1,0 +1,20 @@
+<svg width="84.6" height="20" viewBox="0 0 846 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="Bootstrap">
+  <title>Bootstrap</title>
+  <linearGradient id="a" x2="0" y2="100%">
+    <stop offset="0" stop-opacity=".1" stop-color="#EEE"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <mask id="m"><rect width="846" height="200" rx="30" fill="#FFF"/></mask>
+  <g mask="url(#m)">
+    <rect width="212" height="200" fill="#555"/>
+    <rect width="634" height="200" fill="#08C" x="212"/>
+    <rect width="846" height="200" fill="url(#a)"/>
+  </g>
+  <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
+    <text x="172" y="148" textLength="0" fill="#000" opacity="0.25"></text>
+    <text x="162" y="138" textLength="0"></text>
+    <text x="267" y="148" textLength="534" fill="#000" opacity="0.25">Bootstrap</text>
+    <text x="257" y="138" textLength="534">Bootstrap</text>
+  </g>
+  <image x="40" y="35" width="130" height="130" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDMyIDMyIj48ZGVmcz48bGluZWFyR3JhZGllbnQgeDE9IjI2Mi42MjQiIHkxPSI1NDcuMjA2IiB4Mj0iMzc1LjM3NyIgeTI9IjQzMi40ODQiIGlkPSJBIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMDcwMTM1Ii8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjNjEyZDUwIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PGcgdHJhbnNmb3JtPSJtYXRyaXgoLjI0OTYzNSAwIDAgLjI0OTIzOSAtNjMuNjY1NzE1IC0xMDYuMDQ2NTkpIj48cmVjdCB3aWR0aD0iMTI4LjAxNiIgaGVpZ2h0PSIxMjguNTQ2IiByeT0iMjAuNjgiIHg9IjI1NS4yMzkiIHk9IjQyNS4zMjYiIGZpbGw9InVybCgjQSkiLz48cGF0aCBkPSJNMzIwLjIxMyA0ODAuNjY1YzMuMjcgMCA1Ljc0OC0uNyA3LjQzNy0yLjEzM3MyLjUzMy0zLjUyIDIuNTMzLTYuMjkzYzAtMi43MzgtLjg0NC00LjgxOC0yLjUzMy02LjI0LTEuNy0xLjQ1OC00LjE2OC0yLjE4Ny03LjQzNy0yLjE4N2gtMTEuNDh2MTYuODU0aDExLjQ4bS43IDM0LjgyN2M0LjE2NyAwIDcuMjkzLS44NyA5LjM3Ny0yLjYxMyAyLjEyLTEuNzQyIDMuMTgtNC4zNzMgMy4xOC03Ljg5MyAwLTMuNDUtMS4wNDItNi4wMjctMy4xMjYtNy43MzMtMi4wODQtMS43NDItNS4yMjctMi42MTMtOS40My0yLjYxM2gtMTIuMTh2MjAuODU0aDEyLjE4bTE5LjI5My0yOC42NGM0LjQ1NSAxLjI4IDcuOTA0IDMuNjQ1IDEwLjM0NyA3LjA5M3MzLjY2NCA3LjY4IDMuNjY1IDEyLjY5NGMwIDcuNjgtMi42MjMgMTMuNDA1LTcuODY4IDE3LjE3NHMtMTMuMjIgNS42NTMtMjMuOTI3IDUuNjUzaC0zNC40MzZWNDQ5Ljg0aDMxLjE1YzExLjE3MyAwIDE5LjI1NyAxLjY3IDI0LjI1IDUuMDEzIDUuMDMgMy4zNDIgNy41NDUgOC42OTQgNy41NDUgMTYuMDU0IDAgMy44NzYtLjkxNiA3LjE4Mi0yLjc0OCA5LjkyLTEuODMyIDIuNzAyLTQuNSA0LjctNy45NzYgNi4wMjciIGZpbGw9IiNmZmYiLz48L2c+PC9zdmc+"/>
+</svg>

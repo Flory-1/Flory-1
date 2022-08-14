@@ -1,0 +1,20 @@
+<svg width="93.7" height="20" viewBox="0 0 937 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="TensorFlow">
+  <title>TensorFlow</title>
+  <linearGradient id="a" x2="0" y2="100%">
+    <stop offset="0" stop-opacity=".1" stop-color="#EEE"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <mask id="m"><rect width="937" height="200" rx="30" fill="#FFF"/></mask>
+  <g mask="url(#m)">
+    <rect width="212" height="200" fill="#555"/>
+    <rect width="725" height="200" fill="#08C" x="212"/>
+    <rect width="937" height="200" fill="url(#a)"/>
+  </g>
+  <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
+    <text x="172" y="148" textLength="0" fill="#000" opacity="0.25"></text>
+    <text x="162" y="138" textLength="0"></text>
+    <text x="267" y="148" textLength="625" fill="#000" opacity="0.25">TensorFlow</text>
+    <text x="257" y="138" textLength="625">TensorFlow</text>
+  </g>
+  <image x="40" y="35" width="130" height="130" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0cm9rZS1taXRlcmxpbWl0PSIxLjQxNDAwMDAzIiB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTI3LjczMyAzNC40NTNsOC42NC01LjAxMyA4LjUzMyA1LjAxMy04LjUzMyA0LjkwNy04LjY0LTQuOHpNMS44MTMgMTkuNjI3TDM2LjM3MyAwIDYyLjA4IDE0LjYxMyA1My41NDcgMjkuNDRsLTE3LjE3My05LjgxMy0yNS45MiAxNC43MnoiIGZpbGw9IiNmNmJkM2EiIGZpbGwtcnVsZT0ibm9uemVybyIvPjxwYXRoIGQ9Ik0yNy43MzMgNTQuMDh2LTkuODEzbDguNTMzLTQuOTA3IDguNjQtNC45MDd2OS44MTNsLTguNTMzIDQuOTA3djkuODEzTDI3LjczMyA2NHptMC0xOS42MjdsLTguNjQtNC45MDctOC42NCA0Ljh2LTkuODEzbDI1LjkyLTE0LjcyVjI5LjQ0em0yNS43MDctOS45MnYtNC45MDdsOC42NC01LjAxMy4xMDcgOS44MTMtOC42NCA1LjAxM3oiIGZpbGw9IiNlYjhjMjMiIGZpbGwtcnVsZT0ibm9uemVybyIvPjxwYXRoIGQ9Ik0xOS4wOTMgNTguNzczVjI5LjU0N2w4LjUzMy00LjguMTA3IDkuNzA3IDguNjQgNC44djkuOTJsLTguNjQtNC41ODdWNjR6TTYuMDggMzEuNzg3bC00LjI2Ny0yLjU2di05LjZsOC42NCA0LjkwN3Y5LjgxM2wtNC4zNzMtMi41NnptMzAuMjkzLTEyLjE2VjkuODEzbDE3LjA2NyA5LjgxMy4xMDcgOS44MTMtMTcuMTczLTkuODEzeiIgZmlsbD0iI2UzNWEyYiIgZmlsbC1ydWxlPSJub256ZXJvIi8+PC9zdmc+"/>
+</svg>

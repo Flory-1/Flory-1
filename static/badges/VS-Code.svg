@@ -1,0 +1,20 @@
+<svg width="79.1" height="20" viewBox="0 0 791 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="VS-Code">
+  <title>VS-Code</title>
+  <linearGradient id="a" x2="0" y2="100%">
+    <stop offset="0" stop-opacity=".1" stop-color="#EEE"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <mask id="m"><rect width="791" height="200" rx="30" fill="#FFF"/></mask>
+  <g mask="url(#m)">
+    <rect width="212" height="200" fill="#555"/>
+    <rect width="579" height="200" fill="#08C" x="212"/>
+    <rect width="791" height="200" fill="url(#a)"/>
+  </g>
+  <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
+    <text x="172" y="148" textLength="0" fill="#000" opacity="0.25"></text>
+    <text x="162" y="138" textLength="0"></text>
+    <text x="267" y="148" textLength="479" fill="#000" opacity="0.25">VS-Code</text>
+    <text x="257" y="138" textLength="479">VS-Code</text>
+  </g>
+  <image x="40" y="35" width="130" height="130" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgZmlsbD0iIzAwN2FjYyI+PHBhdGggZD0iTTQ4IDB2NTVMMCA0Ny44NCA0OCA2NGwxNi02LjY2VjYuNjV6TTMxLjIgOS4zNkwxNi41IDIzLjlsLTguODUtNi42N0w0IDE4LjQ1bDkgOC45LTkgOC45IDMuNjUgMS4yMiA4Ljg1LTYuNjcgMTQuNyAxNC41M0w0MCA0MS42VjEzLjF6bTAgMTAuMzdWMzVsLTEwLjEtNy42NXoiLz48L3N2Zz4="/>
+</svg>

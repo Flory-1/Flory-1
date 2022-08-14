@@ -1,0 +1,20 @@
+<svg width="58.5" height="20" viewBox="0 0 585 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="Alt-V">
+  <title>Alt-V</title>
+  <linearGradient id="a" x2="0" y2="100%">
+    <stop offset="0" stop-opacity=".1" stop-color="#EEE"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <mask id="m"><rect width="585" height="200" rx="30" fill="#FFF"/></mask>
+  <g mask="url(#m)">
+    <rect width="212" height="200" fill="#555"/>
+    <rect width="373" height="200" fill="#08C" x="212"/>
+    <rect width="585" height="200" fill="url(#a)"/>
+  </g>
+  <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
+    <text x="172" y="148" textLength="0" fill="#000" opacity="0.25"></text>
+    <text x="162" y="138" textLength="0"></text>
+    <text x="267" y="148" textLength="273" fill="#000" opacity="0.25">Alt-V</text>
+    <text x="257" y="138" textLength="273">Alt-V</text>
+  </g>
+  <image x="40" y="35" width="130" height="130" xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+DQo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPg0KPHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB2aWV3Qm94PSIwIDAgMzggMzgiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgeG1sbnM6c2VyaWY9Imh0dHA6Ly93d3cuc2VyaWYuY29tLyIgc3R5bGU9ImZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2UtbWl0ZXJsaW1pdDoyOyI+DQogICAgPGcgdHJhbnNmb3JtPSJtYXRyaXgoMC4wNzQyMTg4LDAsMCwwLjA3NDIxODgsMCwwKSI+DQogICAgICAgIDxnPg0KICAgICAgICAgICAgPHBhdGggZD0iTTQwLjMxMSwwLjQ5NUw0MjcuNTQ0LDU3LjAzM0M0NDkuNzQ3LDYwLjI3NSA0NjkuNjEzLDgxLjI0NyA0NzIuMDM3LDEwMy44NzhMNTExLjc2LDQ3NC43MzRDNTE0LjE1LDQ5Ny4wNjQgNDk4LjQ0Nyw1MTMuNjg3IDQ3Ni41NjYsNTExLjg2M0w5NS4wOTQsNDgwLjEwMUM3MC42NTQsNDc4LjA2NiA0OC41MDksNDU3LjEyIDQ1Ljc3LDQzMy4zMDVMMC4yODMsMzcuNjY2Qy0yLjQ5NCwxMy41MTIgMTUuNDkyLC0zLjEyOCA0MC4zMTEsMC40OTVaIiBzdHlsZT0iZmlsbDpyZ2IoMCwxMzUsNTQpOyIvPg0KICAgICAgICA8L2c+DQogICAgICAgIDxwYXRoIGQ9Ik0yNS4yMjgsNTQuMDc4TDY3LjA3Miw0MTguMDM2QzY5LjMwOSw0MzcuNDgyIDg3LjY5LDQ1NC45OTEgMTA3Ljg5NCw0NTYuNjczTDQ1OC44MTgsNDg1Ljg5MUM0NjcuNDc1LDQ4Ni42MTMgNDc0LjU5NSw0ODMuNjk1IDQ3OS4zMzMsNDc4LjY5MUM0ODQuMDg0LDQ3My42NzQgNDg2Ljc2Niw0NjYuMjA5IDQ4NS44MDcsNDU3LjI1MUw0NDkuMjY2LDExNi4wOTJDNDQ3LjI3Miw5Ny40ODMgNDMwLjY5NCw4MC4wNTggNDEyLjU4NSw3Ny40MTRMNTYuMzYsMjUuNDAzQzQ2LjIxNSwyMy45MjIgMzcuOTU2LDI2LjYyNCAzMi41NTIsMzEuNjM2QzI3LjE3MywzNi42MjYgMjQuMTEyLDQ0LjM3MyAyNS4yMjgsNTQuMDc4Wk0yMC4yNiw1NC42NDlMNjIuMTA1LDQxOC42MDdDNjQuNjI1LDQ0MC41MTQgODQuOTk2LDQ1OS43ODQgMTA3LjQ3OSw0NjEuNjU1TDQ1OC40MDMsNDkwLjg3NEM0NzguNTMzLDQ5Mi41NTIgNDkyLjk3OCw0NzcuMjYgNDkwLjc3OSw0NTYuNzE4TDQ1NC4yMzgsMTE1LjU2QzQ1Mi4wMDcsOTQuNzQxIDQzMy43MzIsNzUuNDQ4IDQxMy4zMDcsNzIuNDY2TDU3LjA4MywyMC40NTZDMzQuMjUyLDE3LjEyMiAxNy43MDYsMzIuNDMgMjAuMjYsNTQuNjQ5WiIgc3R5bGU9ImZpbGw6cmdiKDI0MSwyNDIsMjQyKTtmaWxsLW9wYWNpdHk6MC4xNTsiLz4NCiAgICAgICAgPHBhdGggZD0iTTE0MywxNThMMjU2LDM1NC4xOEwzNjksMTU4TDIxOC40MywxNThMMjU1Ljk5OCwyMjMuNTI0TDI3NC44MzIsMTkxLjA4OUwzMTIuMzAyLDE5MS4wODlMMjU2LDI4OC41MjVMMTgwLjc2NCwxNThMMTQzLDE1OFoiIHN0eWxlPSJmaWxsOnJnYigyNDEsMjQyLDI0Mik7Ii8+DQogICAgPC9nPg0KPC9zdmc+DQo="/>
+</svg>

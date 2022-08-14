@@ -1,0 +1,20 @@
+<svg width="74" height="20" viewBox="0 0 740 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="Arduino">
+  <title>Arduino</title>
+  <linearGradient id="a" x2="0" y2="100%">
+    <stop offset="0" stop-opacity=".1" stop-color="#EEE"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <mask id="m"><rect width="740" height="200" rx="30" fill="#FFF"/></mask>
+  <g mask="url(#m)">
+    <rect width="212" height="200" fill="#555"/>
+    <rect width="528" height="200" fill="#08C" x="212"/>
+    <rect width="740" height="200" fill="url(#a)"/>
+  </g>
+  <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
+    <text x="172" y="148" textLength="0" fill="#000" opacity="0.25"></text>
+    <text x="162" y="138" textLength="0"></text>
+    <text x="267" y="148" textLength="428" fill="#000" opacity="0.25">Arduino</text>
+    <text x="257" y="138" textLength="428">Arduino</text>
+  </g>
+  <image x="40" y="35" width="130" height="130" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDMyIDMyIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCIgZmlsbD0iIzAwOTc5YyI+PHBhdGggZD0iTTIzLjc4MyAyMy41NWMtMi4wNDQgMC0zLjgtLjctNS4zMy0yLjEtLjk1LS44Ny0xLjczMy0xLjkzNy0yLjQ1NC0zLjA0Ni0uNzIgMS4xLTEuNTA0IDIuMTc1LTIuNDU0IDMuMDQ2LTEuNjUzIDEuNTE1LTMuNTQ3IDIuMTk3LTUuOCAyLjA4N0MzLjQ3NiAyMy41MiAwIDIwLjE0MyAwIDE1Ljk5NGMwLTQuMTYgMy40OTUtNy41NDQgNy44LTcuNTQ0YTguNTEgOC41MSAwIDAgMSA2LjA1IDIuMzc4Yy44MjYuNzcgMS41MjQgMS42NiAyLjE2IDIuNTkzLjYzNi0uOTMzIDEuMzM0LTEuODI0IDIuMTYtMi41OTNhOC41MSA4LjUxIDAgMCAxIDYuMDUtMi4zNzhjNC4yOTYgMCA3LjggMy4zODQgNy44IDcuNTQ0IDAgNC4xNDgtMy40NzYgNy41MjYtNy43NTUgNy41NDRhOS4zOSA5LjM5IDAgMCAxLS40NjIuMDExem0tNi4yMi03LjY1NmMuODUzIDEuMzgzIDEuNjggMi42NyAyLjY4OCAzLjU5NCAxLjEzOCAxLjA0MyAyLjMzNyAxLjQ3MiAzLjg4NyAxLjRsLjA3LS4wMDJjMi44MjcgMCA1LjEyOC0yLjIgNS4xMjgtNC44OHMtMi4zLTQuODgtNS4xMjgtNC44OGE1Ljg4IDUuODggMCAwIDAtNC4yMzYgMS42NjVjLS45MTIuODQ4LTEuNjY1IDEuOTM1LTIuNDA4IDMuMTE2ek03LjggMTEuMTEzYy0yLjgyNyAwLTUuMTI4IDIuMi01LjEyOCA0Ljg4czIuMyA0Ljg4IDUuMTI4IDQuODhsLjA3LjAwMmMxLjU1LjA4MiAyLjc1LS4zNDcgMy44ODctMS40IDEuMDA4LS45MjQgMS44MzYtMi4yIDIuNjg4LTMuNTk0LS43NDQtMS4xOC0xLjQ5Ny0yLjI2OC0yLjQwOC0zLjExNkMxMC44MTcgMTEuNjMgOS40NyAxMS4xIDcuOCAxMS4xem0xNi43NjIgMy45MTR2LTEuNDQ0SDIzLjA2djEuNDQ0aC0xLjQ0NHYxLjQ5NmgxLjQ0NHYxLjQ1NWgxLjUwM3YtMS40NTVoMS40NDR2LTEuNDk2aC0xLjQ0NE01LjYyOCAxNWg0Ljc0NnYxLjU0Mkg1LjYyOHoiLz48L3N2Zz4="/>
+</svg>
