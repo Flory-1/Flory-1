@@ -1,4 +1,4 @@
-# Hi there <img src="./static/images/giphy.webp" width="25px">, I'm Flory
+# Hi there <img src="./static/images/giphy.webp" width="25px">, I'm Flory <a href="https://www.buymeacoffee.com/flory1" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" align="right" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 #### I’m an Driven and Ambitious Developer.
 <div style="padding: 16px; overflow: auto; font-size: 85%; line-height: 1.45; background-color: var(--color-canvas-subtle); border-radius: 6px;">
         When i was 12 years old i started programming, at first only websites
