@@ -21,7 +21,7 @@
     ["Machine Learning", "Web Scraping"]
 
     # 💪 I’m currently learning.
-    ["C#", "TS", "SCSS"]
+    [".NET Maui", "RPG"]
 ```
 <br/>
 
