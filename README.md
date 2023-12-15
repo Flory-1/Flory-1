@@ -12,13 +12,13 @@
     ["Backend Developer", "Frontend Developer", "Game Developer", "Script Kiddie"]
 
     # 🔧 I’m currently working on.
-    ["Alt-V (Custom server for GTA-V)", "GX Calculator (Opera GX Extension)"]
+    ["Mi-Suite (All in one ERP/CRM)", "Mi-Board (Vs-Code Dashboard)", "Mi-Table (JS Datatable)", "Mi-Shine (CSS Ui Kit)"]
 
     # 👌 I’m comfortable with.
-    ["Python", "PHP", "JavaScript"]
+    ["Python", "C#", "PHP", "JavaScript", "TypeScript", "SCSS", "NodeJS"]
 
     # 👀 I’m looking to collaborate with others on.
-    ["Machine Learning", "Web Scraping"]
+    ["Machine Learning", "Web Scraping", "ERP/CRM Solutions"]
 
     # 💪 I’m currently learning.
     [".NET Maui", "RPG"]
