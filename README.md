@@ -12,13 +12,13 @@
     ["Backend Developer", "Frontend Developer", "Game Developer", "Script Kiddie"]
 
     # 🔧 I’m currently working on.
-    ["Mi-Suite (All in one ERP/CRM)", "Mi-Board (Vs-Code Dashboard)", "Mi-Table (JS Datatable)", "Mi-Shine (CSS Ui Kit)"]
+    ["Luna (Self Hosted Programming Language)", "Mi-Board (Vs-Code Dashboard)"]
 
     # 👌 I’m comfortable with.
-    ["Python", "C#", "PHP", "JavaScript", "TypeScript", "SCSS", "NodeJS"]
+    ["Python", "C#", "PHP", "JavaScript", "TypeScript"...]
 
     # 👀 I’m looking to collaborate with others on.
-    ["Machine Learning", "Web Scraping", "ERP/CRM Solutions"]
+    ["Machine Learning", "Compilers"]
 
     # 💪 I’m currently learning.
     [".NET Maui", "RPG"]
