@@ -15,13 +15,13 @@
     ["Luna (Self Hosted Programming Language)", "Mi-Board (Vs-Code Dashboard)"]
 
     # 👌 I’m comfortable with.
-    ["Python", "C#", "PHP", "JavaScript", "TypeScript"...]
+    ["Python", "C#", "PHP", "JavaScript", "TypeScript", "SQL"...]
 
     # 👀 I’m looking to collaborate with others on.
-    ["Machine Learning", "Compilers"]
+    ["Compilers"]
 
     # 💪 I’m currently learning.
-    [".NET Maui", "RPG"]
+    ["Flutter", "Dart"]
 ```
 <br/>
 
