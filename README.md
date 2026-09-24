@@ -15,13 +15,13 @@
     ["Luna (Self Hosted Programming Language)", "Mi-Board (Vs-Code Dashboard)"]
 
     # 👌 I’m comfortable with.
-    ["Python", "C#", "PHP", "JavaScript", "TypeScript", "SQL"...]
+    ["C#", "JavaScript", "TypeScript", "Flutter", "Dart", "Python", "PHP", "SQL"...]
 
     # 👀 I’m looking to collaborate with others on.
     ["Compilers"]
 
     # 💪 I’m currently learning.
-    ["Flutter", "Dart"]
+    ["Advanced Compiler build"]
 ```
 <br/>
 
@@ -93,12 +93,5 @@
 [![and more](./static/badges/and-more.svg)]()
 </div>
 </div>
-<br/>
-
-### GitHub:
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flory-1&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
-![Repository's Stats](https://github-readme-stats.vercel.app/api?username=Flory-1&show_icons=true&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
-
-<br/>
 
 <img src="./static/images/footer.svg" width="100%">
