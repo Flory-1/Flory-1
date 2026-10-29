@@ -6,8 +6,6 @@
 
 *Driven, ambitious, and happiest when I'm building something from scratch, all the way down to the compiler.*
 
-[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/flory_1)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/flory1)
 [![Profile views](https://komarev.com/ghpvc/?username=Flory-1&style=for-the-badge&color=0088cc&label=Profile+views)](https://github.com/Flory-1)
 
 </div>
@@ -90,7 +88,7 @@ class Flory:
 
 <div align="center">
 
-**Thanks for stopping by!** If you like what I do, consider [buying me a coffee](https://www.buymeacoffee.com/flory1) ☕
+**Thanks for stopping by!** If you like what I do, leave a message
 
 </div>
 
